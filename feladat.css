@@ -1,0 +1,37 @@
+.Kartya {
+    background-image: linear-gradient(#ff7f50, #ffdead);
+    width: 7cm;
+    height: 14cm;
+    display: inline-table;
+    margin: 10px
+}
+body {
+    background-image: linear-gradient(#7db9e8, #1e5799);
+}
+h1 {
+    color: #2f4f4f;
+    font-family: Georgia;
+    font-size: 16pt;
+}
+h2 {
+    color: #2f4f4f;
+    background-color: #ff7f50;
+    font-family: Arial;
+    font-size: 12pt;
+    border-bottom: dotted;
+    margin: 10px;
+}
+li {
+    font-family: Georgia;
+}
+p {
+    font-family: Arial;
+    margin: 10px;
+}
+img {
+    width: 160px;
+    border-radius: 8px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
